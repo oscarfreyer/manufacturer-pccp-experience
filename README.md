@@ -11,8 +11,6 @@ python -m pip install -r requirements-public.txt
 python -m ipykernel install --prefix "$VIRTUAL_ENV" --name python3 --display-name "Python 3"
 ```
 
-The census notebook uses Arial. If Arial is unavailable, set `FIGURE_FONT` in its setup cell to an installed sans-serif font, such as `DejaVu Sans`, before execution.
-
 ## Run all five notebooks
 
 ```bash
