@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: If you use these data or analysis code, please cite this release.
+type: software
+title: 'FDA Predetermined Change Control Plans for AI-Enabled Medical Devices: Manufacturer Experience:
+  Data and analysis code'
+version: 1.0.0
+authors:
+- family-names: Freyer
+  given-names: Oscar
+  affiliation: Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology,
+    Dresden, Germany
+- family-names: Buch
+  given-names: Stephan
+  affiliation: Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology,
+    Dresden, Germany; Department of Gastroenterology and Rheumatology, 4th Medical Clinic, Medical University
+    of Lausitz - Carl Thiem, Cottbus, Germany
+- family-names: Mathias
+  given-names: Rebecca
+  affiliation: Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology,
+    Dresden, Germany
+- family-names: Ostermann
+  given-names: Max
+  affiliation: Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology,
+    Dresden, Germany
+- family-names: Jahed
+  given-names: Fatemeh
+  affiliation: Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology,
+    Dresden, Germany
+- family-names: Parks
+  given-names: Acacia C.
+  affiliation: Liquid Amber, Cortland, OH, USA
+- family-names: Henry
+  given-names: Eric
+  affiliation: Brooke & Associates, Cleveland, OH, USA
+- family-names: Gilbert
+  given-names: Stephen
+  affiliation: Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology,
+    Dresden, Germany; Faculty of Business and Economics, TUD Dresden University of Technology, Dresden,
+    Germany
+repository-code: https://github.com/oscarfreyer/manufacturer-pccp-experience
+license: MIT
+abstract: 'Analysis code and processed data accompanying the study "FDA Predetermined Change Control Plans
+  for AI-Enabled Medical Devices: Manufacturer Experience". Five Jupyter notebooks analyze the post-submission
+  survey, pre-submission survey, survey coding reliability, interview domain counts and agreement, and
+  FDA authorization census. The package includes eleven CSV inputs and instructions for reproducing twelve
+  result tables. The software and its execution documentation are licensed under MIT; the data and data
+  documentation are licensed under CC BY 4.0. See LICENSE for the component scopes.'
+keywords:
+- predetermined change control plans
+- medical devices
+- artificial intelligence
+- FDA
+- manufacturer experience
+- mixed methods

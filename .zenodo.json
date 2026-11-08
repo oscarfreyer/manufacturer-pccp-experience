@@ -1,0 +1,50 @@
+{
+  "title": "FDA Predetermined Change Control Plans for AI-Enabled Medical Devices: Manufacturer Experience: Data and analysis code",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "description": "<p>Analysis code and processed data accompanying the study &quot;FDA Predetermined Change Control Plans for AI-Enabled Medical Devices: Manufacturer Experience&quot;. Five Jupyter notebooks analyze the post-submission survey, pre-submission survey, survey coding reliability, interview domain counts and agreement, and FDA authorization census. The package includes eleven CSV inputs and instructions for reproducing twelve result tables. The software and its execution documentation are licensed under MIT; the data and data documentation are licensed under CC BY 4.0. See LICENSE for the component scopes.</p><p><strong>Funding:</strong> Funded by the German Federal Ministry of Education and Research (BMBF), grant 031L0315A, as part of the LiSyM-Cancer II / DEEP-HCC consortium. This work was supported by the European Commission under the Horizon Europe Program, as part of the project CYMEDSEC (101094218) and ASSESS-DHT (101137347). The views and opinions expressed are those of the authors only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authorities can be held responsible for them.  This work was supported by the German Federal Ministry of Education, Research and Space (BMFTR) as part of the Zukunftscluster SEMECO (03ZU2210BA).</p><p>The funders had no role in study design, data collection, analysis, interpretation of the results, or writing the manuscript.</p>",
+  "creators": [
+    {
+      "name": "Freyer, Oscar",
+      "affiliation": "Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology, Dresden, Germany"
+    },
+    {
+      "name": "Buch, Stephan",
+      "affiliation": "Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology, Dresden, Germany; Department of Gastroenterology and Rheumatology, 4th Medical Clinic, Medical University of Lausitz - Carl Thiem, Cottbus, Germany"
+    },
+    {
+      "name": "Mathias, Rebecca",
+      "affiliation": "Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology, Dresden, Germany"
+    },
+    {
+      "name": "Ostermann, Max",
+      "affiliation": "Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology, Dresden, Germany"
+    },
+    {
+      "name": "Jahed, Fatemeh",
+      "affiliation": "Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology, Dresden, Germany"
+    },
+    {
+      "name": "Parks, Acacia C.",
+      "affiliation": "Liquid Amber, Cortland, OH, USA"
+    },
+    {
+      "name": "Henry, Eric",
+      "affiliation": "Brooke & Associates, Cleveland, OH, USA"
+    },
+    {
+      "name": "Gilbert, Stephen",
+      "affiliation": "Else Kröner Fresenius Center for Digital Health, TUD Dresden University of Technology, Dresden, Germany; Faculty of Business and Economics, TUD Dresden University of Technology, Dresden, Germany"
+    }
+  ],
+  "keywords": [
+    "predetermined change control plans",
+    "medical devices",
+    "artificial intelligence",
+    "FDA",
+    "manufacturer experience",
+    "mixed methods"
+  ]
+}

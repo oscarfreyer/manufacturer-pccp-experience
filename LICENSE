@@ -1,0 +1,19 @@
+Licence scope for manufacturer-pccp-experience
+
+Original analysis code and notebook prose under notebooks/, README.md,
+requirements-public.txt and repository configuration are licensed under the MIT
+License in LICENSE-CODE.
+
+Original data, codebooks and domain definitions under data/ are licensed under
+Creative Commons Attribution 4.0 International (CC BY 4.0), in LICENSE-DATA:
+https://creativecommons.org/licenses/by/4.0/
+
+For attribution of the data, use the creators and release title in CITATION.cff,
+link to this repository or its Zenodo record, link to CC BY 4.0, and indicate
+changes. The MIT software licence does not apply to the data merely because
+Zenodo describes the combined release as software.
+
+These licences apply to the respective original contributions. Third-party
+materials retain their own terms, and no new restrictions are imposed on
+public-domain source facts. Installed dependencies and fonts are not bundled
+and retain their own licences.

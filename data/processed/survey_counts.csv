@@ -1,0 +1,286 @@
+﻿survey_id,question_id,question_text,higher_means,sample_n,applicable_n,valid_n,blank_n,explicit_missing_n,skip_n,not_applicable_n,excluded_n,question_type,category_id,category_label,category_order,numeric_value,n
+postsub,3,"What was the primary rationale for including a PCCP in your marketing submission? (e.g., more efficient change management, on-market adaptation/self-learning, resource predictability, etc.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q03_H01,Avoiding a new regulatory submission,1,,4
+postsub,3,"What was the primary rationale for including a PCCP in your marketing submission? (e.g., more efficient change management, on-market adaptation/self-learning, resource predictability, etc.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q03_H02,Faster market access,2,,1
+postsub,3,"What was the primary rationale for including a PCCP in your marketing submission? (e.g., more efficient change management, on-market adaptation/self-learning, resource predictability, etc.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q03_H03,Faster updates,3,,2
+postsub,3,"What was the primary rationale for including a PCCP in your marketing submission? (e.g., more efficient change management, on-market adaptation/self-learning, resource predictability, etc.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q03_H04,More efficient change management,4,,1
+postsub,3,"What was the primary rationale for including a PCCP in your marketing submission? (e.g., more efficient change management, on-market adaptation/self-learning, resource predictability, etc.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q03_H05,Model retraining or algorithm update,5,,5
+postsub,3,"What was the primary rationale for including a PCCP in your marketing submission? (e.g., more efficient change management, on-market adaptation/self-learning, resource predictability, etc.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q03_H06,Performance-threshold adaptation,6,,1
+postsub,3,"What was the primary rationale for including a PCCP in your marketing submission? (e.g., more efficient change management, on-market adaptation/self-learning, resource predictability, etc.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q03_H07,"Hardware, input, or supplier expansion",7,,5
+postsub,3,"What was the primary rationale for including a PCCP in your marketing submission? (e.g., more efficient change management, on-market adaptation/self-learning, resource predictability, etc.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q03_H08,Unspecified Device modification or improvement,8,,1
+postsub,3,"What was the primary rationale for including a PCCP in your marketing submission? (e.g., more efficient change management, on-market adaptation/self-learning, resource predictability, etc.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q03_H09,Management-directed inclusion,9,,1
+postsub,4,How clear and useful was the FDA final guidance in supporting your PCCP preparation and submission?,,12,12,12,0,0,0,0,0,single,1,Clear & easy to apply,1,,2
+postsub,4,How clear and useful was the FDA final guidance in supporting your PCCP preparation and submission?,,12,12,12,0,0,0,0,0,single,2,Clear but difficult to apply,2,,9
+postsub,4,How clear and useful was the FDA final guidance in supporting your PCCP preparation and submission?,,12,12,12,0,0,0,0,0,single,3,Unclear but easy to apply,3,,0
+postsub,4,How clear and useful was the FDA final guidance in supporting your PCCP preparation and submission?,,12,12,12,0,0,0,0,0,single,4,Unclear & difficult to apply,4,,1
+postsub,5,"Which elements of the guidance were especially helpful, and why? (e.g., terminology, examples, interpretive flexibility, structure, alignment with practice, transparency.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q05_H01,Clarified FDA expectations,1,,2
+postsub,5,"Which elements of the guidance were especially helpful, and why? (e.g., terminology, examples, interpretive flexibility, structure, alignment with practice, transparency.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q05_H02,Practical examples,2,,5
+postsub,5,"Which elements of the guidance were especially helpful, and why? (e.g., terminology, examples, interpretive flexibility, structure, alignment with practice, transparency.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q05_H03,Document structure and required components,3,,6
+postsub,5,"Which elements of the guidance were especially helpful, and why? (e.g., terminology, examples, interpretive flexibility, structure, alignment with practice, transparency.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q05_H04,Terminology,4,,2
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H01,Unclear scope and change boundaries,1,,4
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H02,Unclear  FDA expectations,2,,5
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H03,Risk and impact-analysis interpretation,3,,3
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H04,Performance evaluation and metric selection,4,,2
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H05,Modification Protocol interpretation,5,,1
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H06,Data-management requirements,6,,1
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H07,PCCP update and maintenance procedure,7,,1
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H08,Process burden,8,,3
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H09,Process uncertainty,9,,1
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H10,Guidance-practice mismatch,10,,1
+postsub,6,"Which elements of the guidance were difficult to interpret or apply, and why? (e.g., scope boundaries, risk-interpretation, justification requirements, process burden.)",,12,12,12,0,0,0,0,0,coded,POSTSUB_Q06_H11,Unspecified document ambiguity,11,,1
+postsub,7,Please rate the difficulty your team encountered when preparing PCCP section VI: Description of modification,greater preparation challenge,12,12,12,0,0,0,0,0,likert,1,1 = Not at all challenging,1,1,0
+postsub,7,Please rate the difficulty your team encountered when preparing PCCP section VI: Description of modification,greater preparation challenge,12,12,12,0,0,0,0,0,likert,2,2 = Slightly,2,2,3
+postsub,7,Please rate the difficulty your team encountered when preparing PCCP section VI: Description of modification,greater preparation challenge,12,12,12,0,0,0,0,0,likert,3,3 = Moderately,3,3,5
+postsub,7,Please rate the difficulty your team encountered when preparing PCCP section VI: Description of modification,greater preparation challenge,12,12,12,0,0,0,0,0,likert,4,4 = Very,4,4,3
+postsub,7,Please rate the difficulty your team encountered when preparing PCCP section VI: Description of modification,greater preparation challenge,12,12,12,0,0,0,0,0,likert,5,5 = Extremely challenging,5,5,1
+postsub,8,Please describe any difficulty or success you had with navigating the Description of modification section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q08_H01,Difficulty defining future modifications,1,,2
+postsub,8,Please describe any difficulty or success you had with navigating the Description of modification section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q08_H02,Scope boundaries too narrow or unclear,2,,3
+postsub,8,Please describe any difficulty or success you had with navigating the Description of modification section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q08_H03,Unclear detail or FDA expectations,3,,4
+postsub,8,Please describe any difficulty or success you had with navigating the Description of modification section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q08_H04,Process burden,4,,1
+postsub,8,Please describe any difficulty or success you had with navigating the Description of modification section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q08_H05,Section clear and practically useful,5,,3
+postsub,9,Please rate the difficulty your team encountered when preparing PCCP section VII: Modification Protocol,greater preparation challenge,12,12,12,0,0,0,0,0,likert,1,1 = Not at all challenging,1,1,0
+postsub,9,Please rate the difficulty your team encountered when preparing PCCP section VII: Modification Protocol,greater preparation challenge,12,12,12,0,0,0,0,0,likert,2,2 = Slightly,2,2,2
+postsub,9,Please rate the difficulty your team encountered when preparing PCCP section VII: Modification Protocol,greater preparation challenge,12,12,12,0,0,0,0,0,likert,3,3 = Moderately,3,3,3
+postsub,9,Please rate the difficulty your team encountered when preparing PCCP section VII: Modification Protocol,greater preparation challenge,12,12,12,0,0,0,0,0,likert,4,4 = Very,4,4,3
+postsub,9,Please rate the difficulty your team encountered when preparing PCCP section VII: Modification Protocol,greater preparation challenge,12,12,12,0,0,0,0,0,likert,5,5 = Extremely challenging,5,5,4
+postsub,10,Please describe any difficulty or success you had with navigating the Modification Protocol section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q10_H01,Difficulty: defining future validation-data requirements,1,,4
+postsub,10,Please describe any difficulty or success you had with navigating the Modification Protocol section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q10_H02,Difficulty: defining future modifications under uncertainty,2,,1
+postsub,10,Please describe any difficulty or success you had with navigating the Modification Protocol section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q10_H03,Difficulty: unclear required detail and FDA expectations,3,,4
+postsub,10,Please describe any difficulty or success you had with navigating the Modification Protocol section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q10_H04,Difficulty: defining post-market monitoring requirements,4,,1
+postsub,10,Please describe any difficulty or success you had with navigating the Modification Protocol section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q10_H05,Difficulty: process burden,5,,3
+postsub,10,Please describe any difficulty or success you had with navigating the Modification Protocol section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q10_H06,Difficulty: process uncertainty,6,,0
+postsub,10,Please describe any difficulty or success you had with navigating the Modification Protocol section.,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q10_H07,Success: reuse of existing validation evidence,7,,2
+postsub,11,Please rate the difficulty your team encountered when preparing PCCP section VIII: Impact Assessment,greater preparation challenge,12,12,12,0,0,0,0,0,likert,1,1 = Not at all challenging,1,1,0
+postsub,11,Please rate the difficulty your team encountered when preparing PCCP section VIII: Impact Assessment,greater preparation challenge,12,12,12,0,0,0,0,0,likert,2,2 = Slightly,2,2,2
+postsub,11,Please rate the difficulty your team encountered when preparing PCCP section VIII: Impact Assessment,greater preparation challenge,12,12,12,0,0,0,0,0,likert,3,3 = Moderately,3,3,4
+postsub,11,Please rate the difficulty your team encountered when preparing PCCP section VIII: Impact Assessment,greater preparation challenge,12,12,12,0,0,0,0,0,likert,4,4 = Very,4,4,5
+postsub,11,Please rate the difficulty your team encountered when preparing PCCP section VIII: Impact Assessment,greater preparation challenge,12,12,12,0,0,0,0,0,likert,5,5 = Extremely challenging,5,5,1
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H01,Difficulty: defining data collection and analysis methods,1,,1
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H02,"Difficulty: defining performance metrics, values, or acceptance criteria",2,,2
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H03,Difficulty: assessing interdependent or combined modifications,3,,2
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H04,Difficulty: defining impact-assessment scope and change limits,4,,1
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H05,Difficulty: interpreting risk,5,,2
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H06,Difficulty: unclear required detail and FDA expectations,6,,2
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H07,Difficulty: process burden,7,,0
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H08,Success: reuse of existing activities,8,,0
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H09,Success: section clarity,9,,1
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H10,Difficulty: future-change uncertainty,10,,0
+postsub,12,Please describe any difficulty or success you had with navigating the Impact Assessment section.,,12,12,8,4,0,0,0,0,coded,POSTSUB_Q12_H11,Difficulty: defining user-communication requirements,11,,1
+postsub,13,Have you used the FDA’s Q-Submission Program to get feedback on your proposed PCCP before submitting a marketing application?,,12,12,12,0,0,0,0,0,binary,1,Yes,1,,5
+postsub,13,Have you used the FDA’s Q-Submission Program to get feedback on your proposed PCCP before submitting a marketing application?,,12,12,12,0,0,0,0,0,binary,2,No,2,,7
+postsub,14,How useful was the FDA’s feedback during the Q-Submission process for improving your PCCP?,greater perceived usefulness,12,5,5,0,0,0,0,7,likert,1,1 = Not at all useful,1,1,1
+postsub,14,How useful was the FDA’s feedback during the Q-Submission process for improving your PCCP?,greater perceived usefulness,12,5,5,0,0,0,0,7,likert,2,2 = Slightly,2,2,1
+postsub,14,How useful was the FDA’s feedback during the Q-Submission process for improving your PCCP?,greater perceived usefulness,12,5,5,0,0,0,0,7,likert,3,3 = Moderately,3,3,2
+postsub,14,How useful was the FDA’s feedback during the Q-Submission process for improving your PCCP?,greater perceived usefulness,12,5,5,0,0,0,0,7,likert,4,4 = Very,4,4,1
+postsub,14,How useful was the FDA’s feedback during the Q-Submission process for improving your PCCP?,greater perceived usefulness,12,5,5,0,0,0,0,7,likert,5,5 = Extremely useful,5,5,0
+postsub,15,Did FDA feedback during Q-Submission significantly alter your overall PCCP approach?,,12,5,5,0,0,0,0,7,binary,1,Yes,1,,2
+postsub,15,Did FDA feedback during Q-Submission significantly alter your overall PCCP approach?,,12,5,5,0,0,0,0,7,binary,2,No,2,,3
+postsub,16,Which aspects of your PCCP did FDA feedback lead you to revise? (select all that apply),,12,5,5,0,0,0,0,7,multi,1,Description of Modifications,1,,2
+postsub,16,Which aspects of your PCCP did FDA feedback lead you to revise? (select all that apply),,12,5,5,0,0,0,0,7,multi,2,Modification Protocol,2,,3
+postsub,16,Which aspects of your PCCP did FDA feedback lead you to revise? (select all that apply),,12,5,5,0,0,0,0,7,multi,3,Impact Assessment,3,,1
+postsub,16,Which aspects of your PCCP did FDA feedback lead you to revise? (select all that apply),,12,5,5,0,0,0,0,7,multi,4,Risk mitigation strategies,4,,0
+postsub,16,Which aspects of your PCCP did FDA feedback lead you to revise? (select all that apply),,12,5,5,0,0,0,0,7,multi,5,Study/design parameters or testing plans,5,,0
+postsub,16,Which aspects of your PCCP did FDA feedback lead you to revise? (select all that apply),,12,5,5,0,0,0,0,7,multi,6,Project timelines or milestones,6,,1
+postsub,16,Which aspects of your PCCP did FDA feedback lead you to revise? (select all that apply),,12,5,5,0,0,0,0,7,multi,7,Resource allocation or staffing levels,7,,0
+postsub,16,Which aspects of your PCCP did FDA feedback lead you to revise? (select all that apply),,12,5,5,0,0,0,0,7,multi,8,Regulatory strategy or submission type,8,,0
+postsub,16,Which aspects of your PCCP did FDA feedback lead you to revise? (select all that apply),,12,5,5,0,0,0,0,7,multi,9,Other: types and number of modifications,9,,1
+postsub,17,"If you chose ‘Other’ in the previous question, please describe which additional PCCP element(s) you revised based on FDA feedback and explain what changes you made.",,12,3,1,2,0,8,0,1,coded,POSTSUB_Q17_H01,Number of modifications revised,1,,1
+postsub,17,"If you chose ‘Other’ in the previous question, please describe which additional PCCP element(s) you revised based on FDA feedback and explain what changes you made.",,12,3,1,2,0,8,0,1,coded,POSTSUB_Q17_H02,Type of modification revised,2,,1
+postsub,18,"How many distinct design modifications are included in your device’s PCCP? Select the total number of planned change types (e.g., model retraining; threshold tuning; preprocessing/postprocessing; architecture adjustments; new modalities; UI/workflow improvements; feature additions; performance optimization):",,12,12,12,0,0,0,0,0,single,1,1 change,1,,1
+postsub,18,"How many distinct design modifications are included in your device’s PCCP? Select the total number of planned change types (e.g., model retraining; threshold tuning; preprocessing/postprocessing; architecture adjustments; new modalities; UI/workflow improvements; feature additions; performance optimization):",,12,12,12,0,0,0,0,0,single,2,2,2,,1
+postsub,18,"How many distinct design modifications are included in your device’s PCCP? Select the total number of planned change types (e.g., model retraining; threshold tuning; preprocessing/postprocessing; architecture adjustments; new modalities; UI/workflow improvements; feature additions; performance optimization):",,12,12,12,0,0,0,0,0,single,3,3,3,,6
+postsub,18,"How many distinct design modifications are included in your device’s PCCP? Select the total number of planned change types (e.g., model retraining; threshold tuning; preprocessing/postprocessing; architecture adjustments; new modalities; UI/workflow improvements; feature additions; performance optimization):",,12,12,12,0,0,0,0,0,single,4,4,4,,1
+postsub,18,"How many distinct design modifications are included in your device’s PCCP? Select the total number of planned change types (e.g., model retraining; threshold tuning; preprocessing/postprocessing; architecture adjustments; new modalities; UI/workflow improvements; feature additions; performance optimization):",,12,12,12,0,0,0,0,0,single,5,More than 4,5,,3
+postsub,19,Indicate the current adaptiveness of the AI algorithm in your PCCP submission:,,12,12,10,2,0,0,0,0,single,1,Fully locked (no learning post-deployment),1,,3
+postsub,19,Indicate the current adaptiveness of the AI algorithm in your PCCP submission:,,12,12,10,2,0,0,0,0,single,2,Locked with occasional manual updates,2,,1
+postsub,19,Indicate the current adaptiveness of the AI algorithm in your PCCP submission:,,12,12,10,2,0,0,0,0,single,3,"Retrainable under PCCP, but not self-adaptive",3,,6
+postsub,19,Indicate the current adaptiveness of the AI algorithm in your PCCP submission:,,12,12,10,2,0,0,0,0,single,4,"Adaptive with limited autonomy (e.g., local tuning only)",4,,0
+postsub,20,Indicate your preferred future adaptiveness of the AI algorithm (2–5 year outlook):,,12,12,12,0,0,0,0,0,single,1,Fully locked,1,,1
+postsub,20,Indicate your preferred future adaptiveness of the AI algorithm (2–5 year outlook):,,12,12,12,0,0,0,0,0,single,2,Manually retrained only,2,,1
+postsub,20,Indicate your preferred future adaptiveness of the AI algorithm (2–5 year outlook):,,12,12,12,0,0,0,0,0,single,3,Retrainable on new data with external oversight,3,,7
+postsub,20,Indicate your preferred future adaptiveness of the AI algorithm (2–5 year outlook):,,12,12,12,0,0,0,0,0,single,4,Adaptive with internal triggers and safety checks,4,,3
+postsub,20,Indicate your preferred future adaptiveness of the AI algorithm (2–5 year outlook):,,12,12,12,0,0,0,0,0,single,5,Fully self-learning and self-updating in the field,5,,0
+postsub,21,How would you characterize your experience using the PCCP concept on your own devices?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,1,1 = Not at all effective,1,1,0
+postsub,21,How would you characterize your experience using the PCCP concept on your own devices?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,2,2 = Slightly effective,2,2,2
+postsub,21,How would you characterize your experience using the PCCP concept on your own devices?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,3,3 = Moderately effective,3,3,6
+postsub,21,How would you characterize your experience using the PCCP concept on your own devices?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,4,4 = Very effective,4,4,3
+postsub,21,How would you characterize your experience using the PCCP concept on your own devices?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,5,5 = Highly effective,5,5,0
+postsub,22,To what extent did the PCCP concept meet your expectations for managing post-market device modifications (overall approach)?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,1,1 = Not at all effective,1,1,0
+postsub,22,To what extent did the PCCP concept meet your expectations for managing post-market device modifications (overall approach)?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,2,2 = Slightly effective,2,2,2
+postsub,22,To what extent did the PCCP concept meet your expectations for managing post-market device modifications (overall approach)?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,3,3 = Moderately effective,3,3,6
+postsub,22,To what extent did the PCCP concept meet your expectations for managing post-market device modifications (overall approach)?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,4,4 = Very effective,4,4,3
+postsub,22,To what extent did the PCCP concept meet your expectations for managing post-market device modifications (overall approach)?,greater perceived effectiveness,12,12,11,0,1,0,0,0,likert,5,5 = Highly effective,5,5,0
+postsub,23,"If your future AI/ML-enabled device would be eligible for a PCCP, would you choose to use the PCCP pathway in future submissions?",,12,12,12,0,0,0,0,0,single,1,"Yes, definitely worth it",1,,6
+postsub,23,"If your future AI/ML-enabled device would be eligible for a PCCP, would you choose to use the PCCP pathway in future submissions?",,12,12,12,0,0,0,0,0,single,2,Maybe – if the change complexity justifies a PCCP pathway,2,,6
+postsub,23,"If your future AI/ML-enabled device would be eligible for a PCCP, would you choose to use the PCCP pathway in future submissions?",,12,12,12,0,0,0,0,0,single,3,"No, it’s too burdensome",3,,0
+postsub,24,"Which aspects of the PCCP concept are you satisfied with, and why? (e.g., implementation practicality, evidence requirements, lifecycle flexibility, clarity of change boundaries, QMS alignment, FDA predictability, efficiency gains over supplements.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q24_H01,Lifecycle and change-management efficiency,1,,3
+postsub,24,"Which aspects of the PCCP concept are you satisfied with, and why? (e.g., implementation practicality, evidence requirements, lifecycle flexibility, clarity of change boundaries, QMS alignment, FDA predictability, efficiency gains over supplements.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q24_H02,Predictability and alignment,2,,2
+postsub,24,"Which aspects of the PCCP concept are you satisfied with, and why? (e.g., implementation practicality, evidence requirements, lifecycle flexibility, clarity of change boundaries, QMS alignment, FDA predictability, efficiency gains over supplements.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q24_H03,Lifecycle flexibility,3,,2
+postsub,24,"Which aspects of the PCCP concept are you satisfied with, and why? (e.g., implementation practicality, evidence requirements, lifecycle flexibility, clarity of change boundaries, QMS alignment, FDA predictability, efficiency gains over supplements.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q24_H04,"Market, supplier, or platform expansion",4,,1
+postsub,24,"Which aspects of the PCCP concept are you satisfied with, and why? (e.g., implementation practicality, evidence requirements, lifecycle flexibility, clarity of change boundaries, QMS alignment, FDA predictability, efficiency gains over supplements.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q24_H05,Reduced regulatory burden,5,,1
+postsub,24,"Which aspects of the PCCP concept are you satisfied with, and why? (e.g., implementation practicality, evidence requirements, lifecycle flexibility, clarity of change boundaries, QMS alignment, FDA predictability, efficiency gains over supplements.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q24_H06,Faster updates,6,,1
+postsub,25,"Which aspects of the PCCP concept are you not satisfied with, and why? (e.g., complexity, evidence burden, ambiguous boundaries, limited flexibility, misalignment, unpredictability, documentation intensity.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q25_H01,Complexity,1,,1
+postsub,25,"Which aspects of the PCCP concept are you not satisfied with, and why? (e.g., complexity, evidence burden, ambiguous boundaries, limited flexibility, misalignment, unpredictability, documentation intensity.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q25_H02,Evidence burden,2,,3
+postsub,25,"Which aspects of the PCCP concept are you not satisfied with, and why? (e.g., complexity, evidence burden, ambiguous boundaries, limited flexibility, misalignment, unpredictability, documentation intensity.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q25_H03,Restrictive scope,3,,2
+postsub,25,"Which aspects of the PCCP concept are you not satisfied with, and why? (e.g., complexity, evidence burden, ambiguous boundaries, limited flexibility, misalignment, unpredictability, documentation intensity.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q25_H04,Insufficient or ambiguous guidance,4,,1
+postsub,25,"Which aspects of the PCCP concept are you not satisfied with, and why? (e.g., complexity, evidence burden, ambiguous boundaries, limited flexibility, misalignment, unpredictability, documentation intensity.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q25_H05,Process or documentation burden,5,,2
+postsub,25,"Which aspects of the PCCP concept are you not satisfied with, and why? (e.g., complexity, evidence burden, ambiguous boundaries, limited flexibility, misalignment, unpredictability, documentation intensity.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q25_H06,Inconsistent regulator interpretation,6,,2
+postsub,26,"From a regulatory-professional standpoint (workload, process clarity/functionality), how does PCCP compare to traditional change processes (e.g., Special 510(k), PMA supplements)?",stronger preference for PCCP,12,12,12,0,0,0,0,0,likert,1,1 = Strong preference for traditional processes,1,1,0
+postsub,26,"From a regulatory-professional standpoint (workload, process clarity/functionality), how does PCCP compare to traditional change processes (e.g., Special 510(k), PMA supplements)?",stronger preference for PCCP,12,12,12,0,0,0,0,0,likert,2,2 = Some preference for traditional processes,2,2,2
+postsub,26,"From a regulatory-professional standpoint (workload, process clarity/functionality), how does PCCP compare to traditional change processes (e.g., Special 510(k), PMA supplements)?",stronger preference for PCCP,12,12,12,0,0,0,0,0,likert,3,3 = Neutral,3,3,0
+postsub,26,"From a regulatory-professional standpoint (workload, process clarity/functionality), how does PCCP compare to traditional change processes (e.g., Special 510(k), PMA supplements)?",stronger preference for PCCP,12,12,12,0,0,0,0,0,likert,4,4 = Some preference for PCCP,4,4,6
+postsub,26,"From a regulatory-professional standpoint (workload, process clarity/functionality), how does PCCP compare to traditional change processes (e.g., Special 510(k), PMA supplements)?",stronger preference for PCCP,12,12,12,0,0,0,0,0,likert,5,5 = Strong preference for PCCP,5,5,4
+postsub,27,Please explain your reasoning and key factors that shaped your preference:,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q27_H01,Avoiding resubmission,1,,3
+postsub,27,Please explain your reasoning and key factors that shaped your preference:,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q27_H02,Faster implementation and market access,2,,6
+postsub,27,Please explain your reasoning and key factors that shaped your preference:,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q27_H03,Effort or resource savings,3,,2
+postsub,27,Please explain your reasoning and key factors that shaped your preference:,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q27_H04,High upfront workload or burden,4,,2
+postsub,27,Please explain your reasoning and key factors that shaped your preference:,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q27_H05,Upfront burden judged worthwhile,5,,3
+postsub,27,Please explain your reasoning and key factors that shaped your preference:,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q27_H06,Limited benefit or limited usable scope,6,,1
+postsub,27,Please explain your reasoning and key factors that shaped your preference:,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q27_H07,Distraction from the primary submission,7,,1
+postsub,27,Please explain your reasoning and key factors that shaped your preference:,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q27_H08,Procedural ease,8,,0
+postsub,27,Please explain your reasoning and key factors that shaped your preference:,,12,12,10,2,0,0,0,0,coded,POSTSUB_Q27_H09,Enabling planned device modifications,9,,3
+postsub,28,To what extent do you agree that the PCCP provides overall advantages—such as improved customer satisfaction and commercial success—that justify the effort required?,greater agreement and perceived advantage,12,12,11,0,1,0,0,0,likert,1,1 = Strongly disagree (significantly less favorable),1,1,0
+postsub,28,To what extent do you agree that the PCCP provides overall advantages—such as improved customer satisfaction and commercial success—that justify the effort required?,greater agreement and perceived advantage,12,12,11,0,1,0,0,0,likert,2,2 = Disagree (less favorable),2,2,1
+postsub,28,To what extent do you agree that the PCCP provides overall advantages—such as improved customer satisfaction and commercial success—that justify the effort required?,greater agreement and perceived advantage,12,12,11,0,1,0,0,0,likert,3,3 = Neither more nor less favorable,3,3,2
+postsub,28,To what extent do you agree that the PCCP provides overall advantages—such as improved customer satisfaction and commercial success—that justify the effort required?,greater agreement and perceived advantage,12,12,11,0,1,0,0,0,likert,4,4 = Agree (more favorable),4,4,6
+postsub,28,To what extent do you agree that the PCCP provides overall advantages—such as improved customer satisfaction and commercial success—that justify the effort required?,greater agreement and perceived advantage,12,12,11,0,1,0,0,0,likert,5,5 = Strongly agree (significantly more favorable),5,5,2
+postsub,29,Which strategic view best describes your organization?,,12,12,12,0,0,0,0,0,single,1,PCCP adds value & is easy to integrate,1,,2
+postsub,29,Which strategic view best describes your organization?,,12,12,12,0,0,0,0,0,single,2,PCCP adds value & is hard to integrate,2,,9
+postsub,29,Which strategic view best describes your organization?,,12,12,12,0,0,0,0,0,single,3,PCCP lacks value & is easy to integrate,3,,0
+postsub,29,Which strategic view best describes your organization?,,12,12,12,0,0,0,0,0,single,4,PCCP lacks value & is hard to integrate,4,,1
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H01,Lifecycle acceleration and time savings,1,,6
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H02,Innovation enablement,2,,3
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H03,Improved product performance,3,,1
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H04,Customer satisfaction,4,,2
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H05,Product strategy and strategic fit,5,,2
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H06,Resource planning and budgeting,6,,2
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H07,Scalability,7,,1
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H08,Long-term quality assurance or product maintenance,8,,2
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H09,Reduced regulatory burden,9,,1
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H10,Organizational or regulatory implementation challenge,10,,1
+postsub,30,"Please describe the impact on your organization’s product lifecycle or strategic alignment: (e.g., lifecycle acceleration, innovation enablement, resource planning, scalability, long-term QA, budgeting, strategic fit.)",,12,12,9,3,0,0,0,0,coded,POSTSUB_Q30_H11,No clear or uncertain strategic impact,11,,1
+presub,1,Did your organisation hold a Pre-Sub/Q-Sub meeting that focused primarily on a PCCP?,,4,4,4,0,0,0,0,0,single,1,Yes,1,,4
+presub,1,Did your organisation hold a Pre-Sub/Q-Sub meeting that focused primarily on a PCCP?,,4,4,4,0,0,0,0,0,single,2,No,2,,0
+presub,5,What was your primary reason for requesting FDA feedback on a PCCP at the Pre-Sub stage?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q05_H01,Regulatory alignment,1,,2
+presub,5,What was your primary reason for requesting FDA feedback on a PCCP at the Pre-Sub stage?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q05_H02,PCCP planning and scope clarification,2,,2
+presub,5,What was your primary reason for requesting FDA feedback on a PCCP at the Pre-Sub stage?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q05_H03,Initial-clearance study design,3,,0
+presub,5,What was your primary reason for requesting FDA feedback on a PCCP at the Pre-Sub stage?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q05_H04,Confirmation that a new 510(k) is not required,4,,1
+presub,6,Which secondary motivations applied? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,1,Accelerate future updates,1,,2
+presub,6,Which secondary motivations applied? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,2,Reduce post-market submissions,2,,0
+presub,6,Which secondary motivations applied? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,3,Improve predictability,3,,1
+presub,6,Which secondary motivations applied? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,4,Align internal stakeholders,4,,3
+presub,6,Which secondary motivations applied? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,5,Investor/customer request,5,,1
+presub,6,Which secondary motivations applied? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,6,Other,6,,1
+presub,7,Which interaction formats did you use with FDA? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,1,Written only,1,,1
+presub,7,Which interaction formats did you use with FDA? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,2,Teleconference,2,,4
+presub,7,Which interaction formats did you use with FDA? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,3,In-person,3,,0
+presub,7,Which interaction formats did you use with FDA? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,4,Email follow-up,4,,1
+presub,8,"Approximately how long (in minutes) was the live discussion, if any?",,4,4,4,0,0,0,0,0,numeric,45,45,1,45,1
+presub,8,"Approximately how long (in minutes) was the live discussion, if any?",,4,4,4,0,0,0,0,0,numeric,60,60,2,60,3
+presub,9,How clear and useful was FDA’s combined written and verbal feedback?,greater clarity and usefulness,4,4,4,0,0,0,0,0,likert,1,1 = Very unclear / not useful,1,1,0
+presub,9,How clear and useful was FDA’s combined written and verbal feedback?,greater clarity and usefulness,4,4,4,0,0,0,0,0,likert,2,2 = Somewhat unclear,2,2,1
+presub,9,How clear and useful was FDA’s combined written and verbal feedback?,greater clarity and usefulness,4,4,4,0,0,0,0,0,likert,3,3 = Moderately clear & useful,3,3,0
+presub,9,How clear and useful was FDA’s combined written and verbal feedback?,greater clarity and usefulness,4,4,4,0,0,0,0,0,likert,4,4 = Mostly clear & useful,4,4,2
+presub,9,How clear and useful was FDA’s combined written and verbal feedback?,greater clarity and usefulness,4,4,4,0,0,0,0,0,likert,5,5 = Very clear & highly useful,5,5,1
+presub,10,Where was clarity most lacking?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q10_H01,Applicability to future or unmarketed devices,1,,1
+presub,10,Where was clarity most lacking?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q10_H02,Description of planned modifications,2,,1
+presub,11,How clearly did FDA explain which minor PCCP updates would not require a new submission?,greater clarity,4,4,4,0,0,0,0,0,likert,1,1 = Very unclear,1,1,0
+presub,11,How clearly did FDA explain which minor PCCP updates would not require a new submission?,greater clarity,4,4,4,0,0,0,0,0,likert,2,2 = Somewhat unclear,2,2,1
+presub,11,How clearly did FDA explain which minor PCCP updates would not require a new submission?,greater clarity,4,4,4,0,0,0,0,0,likert,3,3 = Mostly unclear,3,3,0
+presub,11,How clearly did FDA explain which minor PCCP updates would not require a new submission?,greater clarity,4,4,4,0,0,0,0,0,likert,4,4 = Mostly clear,4,4,2
+presub,11,How clearly did FDA explain which minor PCCP updates would not require a new submission?,greater clarity,4,4,4,0,0,0,0,0,likert,5,5 = Very clear,5,5,1
+presub,12,Please give one example of a “minor” change FDA said would not need a new submission.,,4,4,3,1,0,0,0,0,coded,PRESUB_Q12_H01,Model retraining for a hardware change,1,,1
+presub,12,Please give one example of a “minor” change FDA said would not need a new submission.,,4,4,3,1,0,0,0,0,coded,PRESUB_Q12_H02,User-guide change,2,,1
+presub,13,What insight did the Pre-Sub predominantly provide?,,4,4,4,0,0,0,0,0,single,1,Ideal (“best-practice”) PCCP,1,,0
+presub,13,What insight did the Pre-Sub predominantly provide?,,4,4,4,0,0,0,0,0,single,2,Minimum acceptable PCCP,2,,2
+presub,13,What insight did the Pre-Sub predominantly provide?,,4,4,4,0,0,0,0,0,single,3,Both equally,3,,0
+presub,13,What insight did the Pre-Sub predominantly provide?,,4,4,4,0,0,0,0,0,single,4,Unclear,4,,2
+presub,14,Please highlight one especially valuable or surprising insight you received.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q14_H01,Greater granularity and predefined specificity required,1,,1
+presub,14,Please highlight one especially valuable or surprising insight you received.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q14_H02,Documentation and QMS are central,2,,1
+presub,14,Please highlight one especially valuable or surprising insight you received.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q14_H03,PCCP scope or value is limited,3,,1
+presub,14,Please highlight one especially valuable or surprising insight you received.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q14_H04,Concept-practice mismatch,4,,1
+presub,14,Please highlight one especially valuable or surprising insight you received.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q14_H05,Initial device validation takes priority,5,,0
+presub,14,Please highlight one especially valuable or surprising insight you received.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q14_H06,Process burden,6,,0
+presub,15,How many distinct change categories do you expect to cover in your PCCP?,,4,4,4,0,0,0,0,0,single,1,1,1,,0
+presub,15,How many distinct change categories do you expect to cover in your PCCP?,,4,4,4,0,0,0,0,0,single,2,2,2,,0
+presub,15,How many distinct change categories do you expect to cover in your PCCP?,,4,4,4,0,0,0,0,0,single,3,3,3,,2
+presub,15,How many distinct change categories do you expect to cover in your PCCP?,,4,4,4,0,0,0,0,0,single,4,More than 3,4,,1
+presub,15,How many distinct change categories do you expect to cover in your PCCP?,,4,4,4,0,0,0,0,0,single,5,Undecided,5,,1
+presub,16,"Please provide example categories you plan to include (e.g., model retraining, parameter tuning, dataset expansion, new sensor, UI update).",,4,4,4,0,0,0,0,0,coded,PRESUB_Q16_H01,Dataset expansion or new data,1,,2
+presub,16,"Please provide example categories you plan to include (e.g., model retraining, parameter tuning, dataset expansion, new sensor, UI update).",,4,4,4,0,0,0,0,0,coded,PRESUB_Q16_H02,Operating-mode update,2,,1
+presub,16,"Please provide example categories you plan to include (e.g., model retraining, parameter tuning, dataset expansion, new sensor, UI update).",,4,4,4,0,0,0,0,0,coded,PRESUB_Q16_H03,Model change or retraining,3,,2
+presub,16,"Please provide example categories you plan to include (e.g., model retraining, parameter tuning, dataset expansion, new sensor, UI update).",,4,4,4,0,0,0,0,0,coded,PRESUB_Q16_H04,New hardware,4,,2
+presub,16,"Please provide example categories you plan to include (e.g., model retraining, parameter tuning, dataset expansion, new sensor, UI update).",,4,4,4,0,0,0,0,0,coded,PRESUB_Q16_H05,New indication for use,5,,1
+presub,16,"Please provide example categories you plan to include (e.g., model retraining, parameter tuning, dataset expansion, new sensor, UI update).",,4,4,4,0,0,0,0,0,coded,PRESUB_Q16_H06,User-interface update,6,,3
+presub,17,Which PCCP section is most challenging so far? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,1,Description of Modifications,1,,0
+presub,17,Which PCCP section is most challenging so far? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,2,Modification Protocol,2,,2
+presub,17,Which PCCP section is most challenging so far? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,3,Impact Assessment,3,,3
+presub,17,Which PCCP section is most challenging so far? (Choose as many as you like),,4,4,4,0,0,0,0,0,multi,4,None/Unsure,4,,0
+presub,18,Briefly explain why this section(s) is challenging.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q18_H01,Future modifications are difficult to specify,1,,1
+presub,18,Briefly explain why this section(s) is challenging.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q18_H02,Unclear required level of detail,2,,0
+presub,18,Briefly explain why this section(s) is challenging.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q18_H03,Guidance does not fit the device,3,,1
+presub,18,Briefly explain why this section(s) is challenging.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q18_H04,Linking QMS controls to modification justification,4,,1
+presub,18,Briefly explain why this section(s) is challenging.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q18_H05,Acceptance criteria cannot be fixed in advance,5,,1
+presub,18,Briefly explain why this section(s) is challenging.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q18_H06,Baseline device is not yet established,6,,0
+presub,19,Did FDA ask for extra testing or documents you felt were disproportionate to device risk?,,4,4,4,0,0,0,0,0,single,1,No,1,,3
+presub,19,Did FDA ask for extra testing or documents you felt were disproportionate to device risk?,,4,4,4,0,0,0,0,0,single,2,"Yes, minor",2,,1
+presub,19,Did FDA ask for extra testing or documents you felt were disproportionate to device risk?,,4,4,4,0,0,0,0,0,single,3,"Yes, significant",3,,0
+presub,20,"If “Yes,” please describe the additional evidence requested.",,4,1,1,0,0,2,1,0,coded,PRESUB_Q20_H01,More detailed verification and validation description,1,,1
+presub,21,Does your draft PCCP require lighter evidence for low-risk changes and deeper evidence for high-risk changes (risk-tiered)?,,4,4,3,1,0,0,0,0,single,1,Yes,1,,1
+presub,21,Does your draft PCCP require lighter evidence for low-risk changes and deeper evidence for high-risk changes (risk-tiered)?,,4,4,3,1,0,0,0,0,single,2,Partly,2,,0
+presub,21,Does your draft PCCP require lighter evidence for low-risk changes and deeper evidence for high-risk changes (risk-tiered)?,,4,4,3,1,0,0,0,0,single,3,No,3,,1
+presub,21,Does your draft PCCP require lighter evidence for low-risk changes and deeper evidence for high-risk changes (risk-tiered)?,,4,4,3,1,0,0,0,0,single,4,Unsure,4,,1
+presub,22,"If you changed PCCP scope after the Pre-Sub, what drove that decision?",,4,4,4,0,0,0,0,0,coded,PRESUB_Q22_H01,No scope change after the Pre-Sub,1,,2
+presub,22,"If you changed PCCP scope after the Pre-Sub, what drove that decision?",,4,4,4,0,0,0,0,0,coded,PRESUB_Q22_H02,PCCP was not pursued,2,,1
+presub,22,"If you changed PCCP scope after the Pre-Sub, what drove that decision?",,4,4,4,0,0,0,0,0,coded,PRESUB_Q22_H03,Expected regulatory burden,3,,1
+presub,22,"If you changed PCCP scope after the Pre-Sub, what drove that decision?",,4,4,4,0,0,0,0,0,coded,PRESUB_Q22_H04,Initial clearance was achieved or prioritized,4,,0
+presub,23,"Compared with a traditional submission without a PCCP, how much effort will finalising the PCCP take?",greater expected effort,4,4,4,0,0,0,0,0,likert,1,1 = Much less effort,1,1,0
+presub,23,"Compared with a traditional submission without a PCCP, how much effort will finalising the PCCP take?",greater expected effort,4,4,4,0,0,0,0,0,likert,2,2 = Somewhat less,2,2,0
+presub,23,"Compared with a traditional submission without a PCCP, how much effort will finalising the PCCP take?",greater expected effort,4,4,4,0,0,0,0,0,likert,3,3 = About the same,3,3,0
+presub,23,"Compared with a traditional submission without a PCCP, how much effort will finalising the PCCP take?",greater expected effort,4,4,4,0,0,0,0,0,likert,4,4 = Somewhat more,4,4,2
+presub,23,"Compared with a traditional submission without a PCCP, how much effort will finalising the PCCP take?",greater expected effort,4,4,4,0,0,0,0,0,likert,5,5 = Much more effort,5,5,2
+presub,24,What is the main driver of this effort level?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q24_H01,Workload comparable to an additional submission,1,,2
+presub,24,What is the main driver of this effort level?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q24_H02,Documentation detail and justification requirements,2,,2
+presub,24,What is the main driver of this effort level?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q24_H03,Organizational preparedness determines effort,3,,0
+presub,24,What is the main driver of this effort level?,,4,4,4,0,0,0,0,0,coded,PRESUB_Q24_H04,Quality-system update burden,4,,1
+presub,25,Which single resource constraint is currently greatest?,,4,4,4,0,0,0,0,0,single,1,Data collection,1,,1
+presub,25,Which single resource constraint is currently greatest?,,4,4,4,0,0,0,0,0,single,2,Analysis,2,,0
+presub,25,Which single resource constraint is currently greatest?,,4,4,4,0,0,0,0,0,single,3,Documentation,3,,2
+presub,25,Which single resource constraint is currently greatest?,,4,4,4,0,0,0,0,0,single,4,Cross-functional coordination,4,,1
+presub,25,Which single resource constraint is currently greatest?,,4,4,4,0,0,0,0,0,single,5,Quality-system updates,5,,0
+presub,25,Which single resource constraint is currently greatest?,,4,4,4,0,0,0,0,0,single,6,Other,6,,0
+presub,26,Please add a brief detail about that constraint.,,4,4,3,1,0,0,0,0,coded,PRESUB_Q26_H01,"Data access, collection, or availability",1,,1
+presub,26,Please add a brief detail about that constraint.,,4,4,3,1,0,0,0,0,coded,PRESUB_Q26_H02,Data granularity and labeling costs,2,,0
+presub,26,Please add a brief detail about that constraint.,,4,4,3,1,0,0,0,0,coded,PRESUB_Q26_H03,Cross-functional coordination or training,3,,1
+presub,26,Please add a brief detail about that constraint.,,4,4,3,1,0,0,0,0,coded,PRESUB_Q26_H04,Documentation and legacy-system constraints,4,,1
+presub,26,Please add a brief detail about that constraint.,,4,4,3,1,0,0,0,0,coded,PRESUB_Q26_H05,Overfitting concern,5,,0
+presub,27,"If FDA required all devices in your regulatory pathway and clinical area to include a PCCP, what impact would that have on your project?",,4,4,4,0,0,0,0,0,single,1,Minimal,1,,0
+presub,27,"If FDA required all devices in your regulatory pathway and clinical area to include a PCCP, what impact would that have on your project?",,4,4,4,0,0,0,0,0,single,2,Manageable,2,,1
+presub,27,"If FDA required all devices in your regulatory pathway and clinical area to include a PCCP, what impact would that have on your project?",,4,4,4,0,0,0,0,0,single,3,Major,3,,1
+presub,27,"If FDA required all devices in your regulatory pathway and clinical area to include a PCCP, what impact would that have on your project?",,4,4,4,0,0,0,0,0,single,4,Project-stopping,4,,1
+presub,27,"If FDA required all devices in your regulatory pathway and clinical area to include a PCCP, what impact would that have on your project?",,4,4,4,0,0,0,0,0,single,5,Unsure,5,,1
+presub,28,Briefly explain why you chose this impact level.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q28_H01,Documentation and process burden,1,,2
+presub,28,Briefly explain why you chose this impact level.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q28_H02,Greater challenge for novel products,2,,0
+presub,28,Briefly explain why you chose this impact level.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q28_H03,Severe or project-stopping impact,3,,0
+presub,28,Briefly explain why you chose this impact level.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q28_H04,Manageable when limited to one product,4,,1
+presub,28,Briefly explain why you chose this impact level.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q28_H05,Planning future changes is unrealistic,5,,0
+presub,28,Briefly explain why you chose this impact level.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q28_H06,Resource constraints,6,,1
+presub,28,Briefly explain why you chose this impact level.,,4,4,4,0,0,0,0,0,coded,PRESUB_Q28_H07,Strategic-planning implications,7,,1
+presub,29,Did you discuss a Special 510(k) or other streamlined pathway for your PCCP?,,4,4,4,0,0,0,0,0,single,1,"Yes, FDA supportive",1,,0
+presub,29,Did you discuss a Special 510(k) or other streamlined pathway for your PCCP?,,4,4,4,0,0,0,0,0,single,2,"Yes, FDA discouraged",2,,0
+presub,29,Did you discuss a Special 510(k) or other streamlined pathway for your PCCP?,,4,4,4,0,0,0,0,0,single,3,Not discussed,3,,4
+presub,29,Did you discuss a Special 510(k) or other streamlined pathway for your PCCP?,,4,4,4,0,0,0,0,0,single,4,Unsure,4,,0
+presub,30,How much long-term benefit do you expect the PCCP to provide once the device is on the market?,greater expected long-term benefit,4,4,4,0,0,0,0,0,likert,1,1 = Minimal benefit,1,1,1
+presub,30,How much long-term benefit do you expect the PCCP to provide once the device is on the market?,greater expected long-term benefit,4,4,4,0,0,0,0,0,likert,2,2 = Limited,2,2,0
+presub,30,How much long-term benefit do you expect the PCCP to provide once the device is on the market?,greater expected long-term benefit,4,4,4,0,0,0,0,0,likert,3,3 = Moderate,3,3,1
+presub,30,How much long-term benefit do you expect the PCCP to provide once the device is on the market?,greater expected long-term benefit,4,4,4,0,0,0,0,0,likert,4,4 = Significant,4,4,2
+presub,30,How much long-term benefit do you expect the PCCP to provide once the device is on the market?,greater expected long-term benefit,4,4,4,0,0,0,0,0,likert,5,5 = Transformational benefit,5,5,0
+presub,31,How likely are you to include a PCCP in the eventual marketing submission for this device?,,4,4,4,0,0,0,0,0,single,1,Very unlikely,1,,1
+presub,31,How likely are you to include a PCCP in the eventual marketing submission for this device?,,4,4,4,0,0,0,0,0,single,2,Unlikely,2,,1
+presub,31,How likely are you to include a PCCP in the eventual marketing submission for this device?,,4,4,4,0,0,0,0,0,single,3,Undecided,3,,0
+presub,31,How likely are you to include a PCCP in the eventual marketing submission for this device?,,4,4,4,0,0,0,0,0,single,4,Likely,4,,0
+presub,31,How likely are you to include a PCCP in the eventual marketing submission for this device?,,4,4,4,0,0,0,0,0,single,5,Very likely,5,,2
+presub,32,"If guidance stays as drafted, how challenging would it be to include a PCCP?",greater anticipated challenge,4,4,4,0,0,0,0,0,likert,1,1 = Trivial,1,1,0
+presub,32,"If guidance stays as drafted, how challenging would it be to include a PCCP?",greater anticipated challenge,4,4,4,0,0,0,0,0,likert,2,2 = Somewhat easy,2,2,0
+presub,32,"If guidance stays as drafted, how challenging would it be to include a PCCP?",greater anticipated challenge,4,4,4,0,0,0,0,0,likert,3,3 = Moderately challenging,3,3,2
+presub,32,"If guidance stays as drafted, how challenging would it be to include a PCCP?",greater anticipated challenge,4,4,4,0,0,0,0,0,likert,4,4 = Difficult,4,4,2
+presub,32,"If guidance stays as drafted, how challenging would it be to include a PCCP?",greater anticipated challenge,4,4,4,0,0,0,0,0,likert,5,5 = Prohibitive,5,5,0
